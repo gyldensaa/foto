@@ -1,0 +1,26 @@
+.md-typeset__table {
+	width:100%;
+}
+
+table {
+	width:100%;
+}
+/*
+.md-container {
+	background-color: #eeeeee;
+}
+.md-tabs {
+	background-color: #eeeeee;	
+}
+.md-header {
+	background-color: #eeeeee;
+}
+
+.md-grid {
+	background-color: teal;
+	max-width: 1000px;
+}
+*/
+.md-grid {
+	max-width: 1000px;
+}
